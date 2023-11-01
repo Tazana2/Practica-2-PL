@@ -16,4 +16,4 @@
 ## Metodología
 #### El programa se realizó con base en ejemplos proporcionados por el profesor del área, llevando estas estructuras para la definición de métodos y la construcción de otros. Todo realizado en el lenguaje de programación `Java`.
 
-## Video explicación de Haskell: [click aquí](https://github.com/Tazana2)
+## Video explicación de Haskell: [click aquí](https://youtu.be/KccaUyWwDK8)
